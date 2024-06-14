@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://www.financedist.com/images/logogray.png",
+    "light": "https://www.financedist.com/images/logogray.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -27,13 +27,12 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+     
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Learn.Financedist.com",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
