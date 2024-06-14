@@ -13,15 +13,14 @@
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983",
-    }
     },
-  "navigation": [
+      },     
+ "navigation": 
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
-      ]
+        "Latest adds",
+           ]
     },
     {
       "group": "Resources",
