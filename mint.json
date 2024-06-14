@@ -8,8 +8,8 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#F7B750",
-    "light": "#F7B750",
-    "dark": "#F7B750",
+    "light": "#06B7DB",
+    "dark": "#06B7DB",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
