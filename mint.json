@@ -27,9 +27,9 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Resources",
       "pages": [
-        "essentials/markdown",
+        "resources/finance-blogs",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
