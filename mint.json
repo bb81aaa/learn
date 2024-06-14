@@ -27,11 +27,11 @@
     {
       "group": "Resources",
       "pages": [
-        "resources/finance-blogs",
+        "resources/finance-blogs"
       ]
-    },   
+    }  
   ],
   "footerSocials": {
-    "x": "https://www.x.com/financedist",
+    "x": "https://www.x.com/financedist"
   }
 }
