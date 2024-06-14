@@ -7,26 +7,32 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#9353D3",
+    "primary": "#AE7EDE",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
       "from": "#0D9373",
-      "to": "#07C983",
-    },
-      },     
- "navigation": 
+      "to": "#07C983"
+    }
+  },
+  "navigation": [
+    {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "Latest adds",
-           ]
+        "quickstart",
+        "development"
+      ]
     },
     {
       "group": "Resources",
       "pages": [
-        "Resources/Finance blogs",
-        "Resources/Stock Brockers",
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
       ]
     },
     {
