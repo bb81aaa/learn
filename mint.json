@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Learn Financedist",
   "logo": {
     "dark": "https://www.financedist.com/images/learn/logo/darklogo.png",
     "light": "https://www.financedist.com/images/learn/logo/lightlogo.png"
@@ -54,7 +54,5 @@
   ],
   "footerSocials": {
     "x": "https://www.x.com/financedist",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
 }
